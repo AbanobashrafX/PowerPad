@@ -1,0 +1,67 @@
+<RCC>
+  <qresource prefix="/new/light">
+    <file>icons/white/icons8_font_style_formatting_30px.png</file>
+    <file>icons/white/icons8_text_color_30px.png</file>
+    <file>icons/white/icons8_marker_pen_30px.png</file>
+    <file>icons/white/icons8_underline_30px.png</file>
+    <file>icons/white/icons8_chevron_down_30px.png</file>
+    <file>icons/white/icons8_chevron_up_30px.png</file>
+    <file>icons/white/icons8_Add_30px.png</file>
+    <file>icons/white/icons8_copy_30px.png</file>
+    <file>icons/white/icons8_zoom_in_30px.png</file>
+    <file>icons/white/icons8_search_30px_1.png</file>
+    <file>icons/white/icons8_zoom_out_30px.png</file>
+    <file>icons/white/icons8_cut_30px.png</file>
+    <file>icons/white/icons8_paste_50px.png</file>
+    <file>icons/white/icons8_align_center_30px.png</file>
+    <file>icons/white/icons8_align_justify_30px_2.png</file>
+    <file>icons/white/icons8_align_left_30px.png</file>
+    <file>icons/white/icons8_align_right_30px.png</file>
+    <file>icons/white/icons8_bold_30px.png</file>
+    <file>icons/white/icons8_delete_30px_3.png</file>
+    <file>icons/white/icons8_file_30px.png</file>
+    <file>icons/white/icons8_italic_30px_2.png</file>
+    <file>icons/white/icons8_opened_folder_24px_2.png</file>
+    <file>icons/white/icons8_pdf_30px_2.png</file>
+    <file>icons/white/icons8_print_30px_2.png</file>
+    <file>icons/white/icons8_image_file_30px.png</file>
+    <file>icons/white/icons8_redo_26px_2.png</file>
+    <file>icons/white/icons8_save_30px.png</file>
+    <file>icons/white/icons8_undo_26px_2.png</file>
+  </qresource>
+  <qresource prefix="/new/dark">
+    <file>icons/dark/icons8_align_justify_30px_1.png</file>
+    <file>icons/dark/icons8_align_text_center_30px.png</file>
+    <file>icons/dark/icons8_align_text_left_30px.png</file>
+    <file>icons/dark/icons8_align_text_right_30px_1.png</file>
+    <file>icons/dark/icons8_bold_24px.png</file>
+    <file>icons/dark/icons8_file_24px_1.png</file>
+    <file>icons/dark/icons8_italic_30px_1.png</file>
+    <file>icons/dark/icons8_opened_folder_24px.png</file>
+    <file>icons/dark/icons8_redo_26px_1.png</file>
+    <file>icons/dark/icons8_save_50px_1.png</file>
+    <file>icons/dark/icons8_save_as_26px.png</file>
+    <file>icons/dark/icons8_pdf_30px.png</file>
+    <file>icons/dark/icons8_print_30px.png</file>
+    <file>icons/dark/icons8_undo_26px_1.png</file>
+  </qresource>
+  <qresource prefix="/new/norm">
+    <file>icons/color/icons8_align_justify_30px_1.png</file>
+    <file>icons/color/icons8_pdf_48px.png</file>
+    <file>icons/color/icons8_print_40px.png</file>
+    <file>icons/color/icons8_align_text_center_30px.png</file>
+    <file>icons/color/icons8_align_text_left_30px.png</file>
+    <file>icons/color/icons8_align_text_right_30px_1.png</file>
+    <file>icons/color/icons8_bold_48px.png</file>
+    <file>icons/color/icons8_file_48px.png</file>
+    <file>icons/color/icons8_italic_80px.png</file>
+    <file>icons/color/icons8_opened_folder_48px_1.png</file>
+    <file>icons/color/icons8_redo_48px.png</file>
+    <file>icons/color/icons8_color_wheel_30px.png</file>
+    <file>icons/color/icons8_Color_Wheel_48px.png</file>
+    <file>icons/color/icons8_save_48px.png</file>
+    <file>icons/color/icons8_delete_30px_1.png</file>
+    <file>icons/color/icons8_save_as_48px.png</file>
+    <file>icons/color/icons8_undo_48px.png</file>
+  </qresource>
+</RCC>
